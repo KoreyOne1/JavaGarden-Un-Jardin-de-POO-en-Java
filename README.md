@@ -32,16 +32,6 @@ src/
 
 ---
 
-## 🚀 Cómo Ejecutar
-1. Clonar el repositorio:
-```bash
-git clone https://github.com/tuusuario/integrador.git
-cd integrador/src
-
-Compilar y ejecutar:
-javac *.java
-java Implementacion
-
 🧠 Conceptos Implementados
 Concepto	Ejemplo en el Código
 Herencia	class Arbol extends Planta
