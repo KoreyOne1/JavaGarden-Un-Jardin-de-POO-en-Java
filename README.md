@@ -7,7 +7,6 @@ Proyecto que demuestra los principios de **Programación Orientada a Objetos (PO
 ## 📋 Tabla de Contenidos
 - [🏗️ Estructura del Proyecto](#️-estructura-del-proyecto)
 - [⚙️ Requisitos](#️-requisitos)
-- [🚀 Cómo Ejecutar](#-cómo-ejecutar)
 - [🧠 Conceptos Implementados](#-conceptos-implementados)
 - [📐 Diagrama de Clases](#-diagrama-de-clases)
 - [💻 Salida del Programa](#-salida-del-programa)
@@ -15,14 +14,16 @@ Proyecto que demuestra los principios de **Programación Orientada a Objetos (PO
 - [📜 Licencia](#-licencia)
 
 ---
+## Estructura del proyecto
 
-## 🏗️ Estructura del Proyecto
+```text
 src/
 ├── Planta.java # Clase abstracta base
 ├── Arbol.java # Representa árboles (hereda de Planta)
 ├── Flor.java # Representa flores (hereda de Planta)
 ├── Arbusto.java # Representa arbustos (hereda de Planta)
 └── Implementacion.java # Punto de entrada principal
+```
 
 ---
 
