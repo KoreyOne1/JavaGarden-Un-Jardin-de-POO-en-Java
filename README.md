@@ -14,7 +14,7 @@ Proyecto que demuestra los principios de **Programación Orientada a Objetos (PO
 - [📜 Licencia](#-licencia)
 
 ---
-## Estructura del proyecto
+## 🏗️ Estructura del proyecto
 
 ```text
 src/
@@ -33,17 +33,17 @@ src/
 
 ---
 
-🧠 Conceptos Implementados
+## 🧠 Conceptos Implementados
 Concepto	Ejemplo en el Código
 Herencia	class Arbol extends Planta
 Polimorfismo	Método mensaje() en cada subclase
 Clase Abstracta	abstract class Planta
 Encapsulamiento	Atributos privados + getters/setters
 
-📐 Diagrama de Clases
+## 📐 Diagrama de Clases
 ![depp.png](IMAGEN/depp.png)
 
-💻 Salida del Programa
+## 💻 Salida del Programa
 Hola soy un árbol
 [Detalles del árbol...]
 ---------------------------------------------
@@ -52,7 +52,8 @@ Hola soy una flor
 ---------------------------------------------
 Hola soy un arbusto
 [Detalles del arbusto...]
-📚 Lecciones Aprendidas
+
+## 📚 Lecciones Aprendidas
 
 Diferencias entre métodos public y private
 
@@ -62,7 +63,7 @@ Importancia de los modificadores de acceso
 
 Ventajas de usar clases abstractas
 
-📜 Licencia
+## 📜 Licencia
 
 Este proyecto está bajo licencia MIT.
 Consulta el archivo LICENSE para más detalles.
